@@ -24,7 +24,7 @@ int main()
         {//smallest number entered by user becomes minNumber when entered
             minNumber = userInput;
         }
-        sumTotal = sumTotal + userInput;
+        sumTotal += userInput;
     }
     std::cout << "Maximum number = " << maxNumber << "\n";
     std::cout << "Minimum number = " << minNumber << "\n";
