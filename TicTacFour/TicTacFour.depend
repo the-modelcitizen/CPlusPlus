@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524889399 source:c:\users\rich\desktop\c++\tictacfour\src\gameboard.cpp
+	"Gameboard.h"
+	<iostream>
+
+1524889324 c:\users\rich\desktop\c++\tictacfour\include\gameboard.h
+
+1524889611 source:c:\users\rich\desktop\c++\tictacfour\main.cpp
+	<iostream>
+	<string>
+	"Gameboard.h"
+	"functions.h"
+
+1524889517 c:\users\rich\desktop\c++\tictacfour\functions.h
+	<iostream>
+	<string>
+
+1524889627 source:c:\users\rich\desktop\c++\tictacfour\functions.cpp
+	<iostream>
+	"Gameboard.h"
+
